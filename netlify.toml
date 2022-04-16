@@ -1,0 +1,9 @@
+# netlify.toml
+[build]
+command = "webpack" 
+
+[[redirects]]
+from = "/project-r/*"
+to = "project-ryanism.netlify.app/:splat"
+status = 200
+force = true
