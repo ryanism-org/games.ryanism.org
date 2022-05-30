@@ -1,0 +1,21 @@
+body {
+    margin: 25px;
+    margin-bottom: 0px;
+}
+
+footer {
+    margin-left: -25px;
+    margin-right: -25px;
+}
+
+#header {
+    padding: 22px;
+}
+
+#header.header-scrolled {
+    padding: 10px 25px;
+}
+
+.breadcrumb {
+    padding-top: 18px;
+}
