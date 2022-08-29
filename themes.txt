@@ -3,3 +3,6 @@ To make themes:
 1. Update Main.js Line 205 Uncomment
 2. Update favicon folders
 3. Update logo in img folder
+
+TODO:
+Make themes based on main site
